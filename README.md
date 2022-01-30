@@ -4,12 +4,12 @@ All individuals residing in Greece was required to send an "SMS" text message to
 
 This is an "Android" application that builds and sends such an "SMS" from the mobile phone to short-code "13033". "MIT App Inventor" platform used for the development of this application. "App Inventor" is a free, cloud-based service that allows you to make your own mobile apps using a blocks-based programming language. You access "App Inventor" using a web browser (Chrome, Firefox, Safari). 
 
-The "Android application PacKage", i.e the application file ready for installation in an Android device is : ***"quarantine.apk"***
+The "Android application PacKage", i.e the application file ready for installation in an "Android" device is : ***"quarantine.apk"***
 
-***"quarantine"*** folder contains the decompressed "apk" files and directories
+***"quarantine"*** folder contains the decompressed "apk" files and directories.
 
 ### Usage
-The "SMS" to "13033" is formatted as follows :
+The "SMS" to short-code "13033" is formatted as follows :
 
 ```
 X [blank] full name and home address
